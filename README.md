@@ -1,0 +1,38 @@
+# NBA Player Clustering with Machine Learning
+
+This repository contains the code and figures for the article:
+
+**Identifying NBA Player Similarity with Machine Learning (PCA, K-Means, Agglomerative Clustering)**
+
+The goal of this project is to move beyond traditional NBA positions and identify **data-driven player archetypes** using unsupervised learning on 2024–2025 NBA statistics.
+
+---
+
+## Overview
+
+- **Data:** 2024–2025 NBA season (Basketball-Reference)
+- **Language:** Python
+- **Methods:**
+  - Feature selection & normalization
+  - Principal Component Analysis (PCA)
+  - K-Means clustering
+  - Agglomerative hierarchical clustering
+
+All statistics are **per 100 possessions**.
+
+---
+
+## To start
+
+1. Begin by downloading 2025 data final.csv.
+
+2. Then, run NBA Player Clustering.ipynb  
+  
+## Repository Structure
+
+```text
+├── datasets/         # Raw datasets
+├── notebooks/    # Data cleaning, PCA, and clustering analysis
+├── figures/      # Plots and visualizations
+├── requirements.txt
+└── README.md
