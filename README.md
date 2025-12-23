@@ -2,7 +2,7 @@
 
 This repository contains the code and figures for the article:
 
-**[Identifying NBA Player Similarity with Machine Learning (PCA, K-Means, Agglomerative Clustering)](medium.com)**
+**[Identifying NBA Player Similarity with Machine Learning (PCA, K-Means, Agglomerative Clustering)]([medium.com](https://medium.com/@vivaansehgal01/identifying-nba-player-similarity-with-machine-learning-pca-k-means-agglomerative-clustering-f96f598ba307))**
 
 The goal of this project is to move beyond traditional NBA positions and identify **data-driven player archetypes** using unsupervised learning on 2024–2025 NBA statistics.
 
@@ -31,8 +31,8 @@ All statistics are **per 100 possessions**.
 ## Repository Structure
 
 ```text
-├── datasets/         # Raw datasets
-├── figures/    # Plots and visualizations
-├── 2025 data final.csv      # finalized dataset
-├── NBA Player Clustering.ipynb   #notebook to run
+├── datasets/                     # Raw datasets
+├── figures/                      # Plots and visualizations
+├── 2025 data final.csv           # Finalized dataset
+├── NBA Player Clustering.ipynb   # Notebook to run
 └── README.md
